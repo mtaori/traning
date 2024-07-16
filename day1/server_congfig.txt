@@ -1,0 +1,5 @@
+Server Name: Webserver01
+IP Address: 192.168.232.10 
+od: Ubuntu: 20.04
+Installed package: Apacher, MySQL, PHP
+Configuration Complete 
